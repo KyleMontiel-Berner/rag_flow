@@ -13,6 +13,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.104.1",
     "dotenv": "^17.4.2",
+    "voyageai": "^0.4.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {
